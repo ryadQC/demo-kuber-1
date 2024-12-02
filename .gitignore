@@ -1,6 +1,9 @@
 HELP.md
 target/
 **/target/
+productcatalogue/target
+shopfront/target
+stockmanager/target
 #!.mvn/wrapper/maven-wrapper.jar
 #!**/src/main/**/target/
 #!**/src/test/**/target/
